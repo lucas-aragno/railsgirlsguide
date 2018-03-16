@@ -14,6 +14,8 @@ In order to get ruby on your machine you will need to download the [RubyInstalle
 
 For that I recommend using ruby 2.3.3. It's not the newest version but it's the one that I find less of a pain to use on windows.
 
+![rubyinstaller](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/rubyinstaller.png?raw=true)
+
 
 you will find 2 installers as shown on the image, you need to pick the right one for the machine your are working with (depending on if it's 64bit or 32bit), a good way to do this is to do windows + R (the windows key), that will prompt a small search bar and type there cmd to open the command line (or open the command line directly if you know how to do it) and type `dxdiag` that will open a window where you can see which system is running.
 
