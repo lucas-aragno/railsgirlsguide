@@ -98,7 +98,7 @@ rails new myApp
 should do the trick! 
 
 
-I hope you found this usefule ‘Cause you’re on your own from here so good luck and happy hacking!
+I hope you found this usefule ‘cause you’re on your own from here so good luck and happy hacking!
 
 
 
