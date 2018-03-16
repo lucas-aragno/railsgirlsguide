@@ -6,7 +6,7 @@ title: Rails Girls Instalation Guide (for windows)
 
 ### Disclaimer
 
-I have this guide working for computers with Windows 7 and 8 (in 2018) updating and cherrypicking the contents of this [guide](https://medium.com/ruby-on-rails-web-application-development/how-to-install-rubyonrails-on-windows-7-8-10-complete-tutorial-2017-fc95720ee059).
+I have this guide working for computers with Windows 7 and 8 (in 2018) updating and cherrypicking the contents from this [guide](https://medium.com/ruby-on-rails-web-application-development/how-to-install-rubyonrails-on-windows-7-8-10-complete-tutorial-2017-fc95720ee059).
 
 This is not a professional set up since im not getting the lastest versions of most of the things but should be enough for this workshop.
 
