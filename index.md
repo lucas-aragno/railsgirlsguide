@@ -1,3 +1,7 @@
+---
+title: Rails Girls Instalation Guide (for windows)
+---
+
 ## Installing Ruby and Rails on Windows (for Rails Girls)
 
 ### Disclaimer
