@@ -28,6 +28,8 @@ Remember to leave the default instalation path so it will create a folder `C:/Ru
 
 After that you should be able to call ruby on your cmd
 
+![rubyv](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/rubyv.png?raw=true)
+
 
 ## Installing the development kit
 
@@ -38,13 +40,25 @@ Once you download and execute the .exe it will ask for an extract path. I recomm
 
 So you navigate to where you extracted the devkit (If you did `C:/RubyDevKit` you can just do `cd` until you get to `C:/` and then `cd RubyDevKit`)
 
-there you will find a `dk.rb` file we will need to perform first
+![devkit1](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/devkit.png?raw=true)
+
+> note: in my case i installed it on C:/Ruby
+
+
+
+there you will find a `dk.rb` file with that file we will init the devkit
+
+
 
 ```
 ruby dk.rb init
 ```
 
+![devkit2](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/devkit15.png?raw=true)
+
 that will create a `config.yml` In which we will need to point our ruby instalation
+
+![devkit3](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/devkit2.png?raw=true)
 
 
 After that is set you will need to run
@@ -68,6 +82,11 @@ once there run
 ruby setup.rb
 ```
 
+![rubygems](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/rubygems.png?raw=true)
+
+> note: don't mind the warnings if it doesn't throw any errors it means that it worked!
+
+
 It will do a lot of stuff and if everything goes well will print
 
 ```
@@ -85,6 +104,8 @@ It was a long path but now we are on the final steps... to install rails you sho
 gem install rails
 ```
 
+![rails1](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/rails%201.png?raw=true)
+
 on your cmd and should be installed on a few minutes (I recommend use `gem install rails --no-ri` so it skips the docs, where we're going we don't need docs)
 
 Once that's done let's go to our final step!
@@ -94,6 +115,8 @@ Once that's done let's go to our final step!
 ```
 rails new myApp
 ```
+
+![rails2](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/rails2.png?raw=true)
 
 should do the trick! 
 
