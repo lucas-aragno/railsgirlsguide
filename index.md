@@ -1,5 +1,5 @@
 ---
-title: Rails Girls Instalation Guide (for windows)
+title: Rails Girls Installation Guide (for windows)
 ---
 
 ## Installing Ruby and Rails on Windows (for Rails Girls)
@@ -23,7 +23,7 @@ For that I recommend using ruby 2.3.3. It's not the newest version but it's the 
 
 you will find 2 installers as shown on the image, you need to pick the right one for the machine your are working with (depending on if it's 64bit or 32bit), a good way to do this is to do windows + R (the windows key), that will prompt a small search bar and type there cmd to open the command line (or open the command line directly if you know how to do it) and type `dxdiag` that will open a window where you can see which system is running.
 
-Remember to leave the default instalation path so it will create a folder `C:/Ruby23` that we will need later
+Remember to leave the default installation path so it will create a folder `C:/Ruby23` that we will need later
 
 
 > note that here you can download either a compressed version of the installer or an .exe file I recommend the .exe because it will give you the option to add ruby to your PATH otherwise you will have to do it manually from the control panel
@@ -60,7 +60,8 @@ ruby dk.rb init
 
 ![devkit2](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/devkit15.png?raw=true)
 
-that will create a `config.yml` In which we will need to point our ruby instalation
+that will create a `config.yml` In which we will need to point our ruby 
+
 
 ![devkit3](https://github.com/lucas-aragno/railsgirlsguide/blob/master/assets/devkit2.png?raw=true)
 
